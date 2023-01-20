@@ -30,5 +30,5 @@ public class Curso extends Conteudo{
                     ", cargaHoraria=" + cargaHoraria +
                     '}';           
     }
-    // parei aqui no override, talvez uns 5min do video
+    
 }
